@@ -1,0 +1,14 @@
+.env
+credentials.json
+token.json
+state/
+*.sqlite
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+HANDOFF.md
